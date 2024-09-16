@@ -244,12 +244,12 @@
     </div>
   </section>
 
-   <!--Watchess-->
+   <!--Watches-->
    <section id="Watches" class="my-5">
     <div class="container text-center mt-5 py-5">
       <h3>Watches</h3>
       <hr class="mx-auto">
-      <p>Check the most Eligant Watches</p>
+      <p>Check the most Elegant Watches</p>
     </div>
     <div class="row mx-auto container-fluid">
       <div class="product text-center col-lg-3 col-md-4 col-sm-12">
